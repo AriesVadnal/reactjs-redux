@@ -1,0 +1,96 @@
+
+{
+	"users" : [
+      {
+        "id": 1,
+        "nama": "afif",
+        "alamat": "pekalongan",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 2,
+        "nama": "bayu",
+        "alamat": "jepara",
+        "umur": 21,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 3,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 4,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 5,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 6,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 7,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 8,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 9,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 10,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 11,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 12,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      },
+      {
+        "id": 13,
+        "nama": "hendro",
+        "alamat": "jakarta",
+        "umur": 24,
+        "nphp": "0888231232312"
+      }
+    ]
+}
